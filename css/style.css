@@ -19,10 +19,13 @@ body{
     
     
 }
+#principal{
+    width: 90%;
+}
 .titulo img{
     margin: 10px;
     float: left;
-    
+       
 }
 .titulo{
     color: whitesmoke;
