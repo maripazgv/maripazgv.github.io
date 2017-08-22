@@ -25,6 +25,7 @@ body{
 .titulo img{
     margin: 10px;
     float: left;
+    
      
 }
 .titulo{
@@ -149,8 +150,7 @@ span a:hover {
     nav{
         text-align: center;
     }
-    .titulo h1{
-        
+    .titulo h1{        
         display: inline;
     }
 }
